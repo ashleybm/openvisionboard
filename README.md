@@ -8,10 +8,10 @@ python -m virtualenv venv
 to activate: 
 -cd venv
 -cd Scripts
--./activate.bat
+\venv\Scripts\activate.bat
 
 to deactivate 
--./deactivate.bat
+\venv\Scripts\activate.bat
 
 in the openvisionboard folder:
 pip install django
